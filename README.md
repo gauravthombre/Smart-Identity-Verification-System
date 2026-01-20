@@ -14,7 +14,8 @@ Digital identity fraud is a growing threat. This project is a **Smart Digital Id
 
 ## 📊 Data Analysis & Insights
 We analyzed over 1 Million enrolment records to train our AI model.
-![Analysis Charts](analysis_charts.png)
+!<img width="1200" height="500" alt="Code_Generated_Image (3)" src="https://github.com/user-attachments/assets/60efda2d-29a8-432e-b25a-344ec1dc9977" />
+
 *Fig: Scalability check (Left) and Fraud Anomaly Detection in Bengaluru (Right)*
 
 ## 🛠️ Tech Stack
